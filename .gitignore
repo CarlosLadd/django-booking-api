@@ -1,0 +1,3 @@
+
+*.pyc
+mytest/api/migrations/0001_initial.py
